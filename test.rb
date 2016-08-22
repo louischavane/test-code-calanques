@@ -27,5 +27,5 @@ end
 
 
 
-puts age_in_days(1983, 01, 01)
+puts age_in_days(900, 01, 01)
 
